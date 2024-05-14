@@ -42,10 +42,6 @@ Creating a timetable for educational institutions can be a challenging and error
    python main.py
    ```
 
-## Contributing
-
-We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can help.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
